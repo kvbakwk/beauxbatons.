@@ -1,3 +1,1 @@
-# Beauxbatons
-
-by kubalfw, deni
+_beauxbatons_
